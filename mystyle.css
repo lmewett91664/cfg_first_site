@@ -1,2 +1,5 @@
 <link href='bootstrap/css/bootstrap.css' rel='stylesheet'>
 <p class="lead">...</p>
+<style>
+    h1 { color: red; }
+  </style>
